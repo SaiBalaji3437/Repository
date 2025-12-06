@@ -7,3 +7,8 @@ function Calculate(a,a)
 {
     return a+b;
 }
+
+function newfeature()
+{
+    return "Balaji"
+}
