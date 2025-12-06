@@ -3,7 +3,7 @@ const name="piyush Garg"
 const dob="90"
 
 
-function Calculate(a,b)
+function Calculate(a,a)
 {
     return a+b;
 }
